@@ -1,0 +1,8 @@
+{
+  "name": "element-offset",
+  "repo": "enricomarino/element-offset",
+  "description": "Element offset component",
+  "version": "0.0.1",
+  "dependencies": {},
+  "scripts": ["index.js"]
+}
