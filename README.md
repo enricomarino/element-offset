@@ -1,6 +1,6 @@
 # element-offset
 
-Element offset component
+offset plugin for element
 
 ## Installation
 
