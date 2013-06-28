@@ -6,6 +6,10 @@ offset plugin for element
 
     $ component install enricomarino/element-offset
 
+## API
+
+### Element#offset():Object
+
 ## License
 
 (The MIT License)
